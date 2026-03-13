@@ -5,7 +5,9 @@
 ⚙️ DevOps & Cloud Learner
 
 💻 Passionate about Full-Stack Development, AI, and Cloud Computing
+
 ⚙️ Experienced with DevOps tools and modern web technologies
+
 🚀 I enjoy building scalable systems and AI-powered applications
 ---
 
@@ -97,9 +99,13 @@ Full-stack streaming system with authentication, watchlists, and reviews.
 ⭐ Goals
 
 ✔ Build scalable cloud applications
+
 ✔ Master DevOps and Infrastructure
+
 ✔ Work on global software projects
+
 ✔ Contribute to open source
 ---
+
 ⭐ *Always learning new technologies and building real-world applications.*
 -->
