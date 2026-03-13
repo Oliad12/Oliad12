@@ -92,8 +92,10 @@ Full-stack streaming system with authentication, watchlists, and reviews.
 
 💻 GitHub:
 https://github.com/oliad12
+
 🔗 LinkedIn:
 https://www.linkedin.com/in/tibebu12
+
 🌍 Portfolio:
 https://tibebudere.vercel.app
 
