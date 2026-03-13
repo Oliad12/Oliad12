@@ -69,7 +69,7 @@ Full-stack streaming platform with authentication, watchlists, and reviews.
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/Oliad12
-* LinkedIn: [(add your LinkedIn link)](https://www.linkedin.com/in/tibebu12)
-* Portfolio: [(add your portfolio link)](https://tibebudere.vercel.app/)
+* LinkedIn: https://www.linkedin.com/in/tibebu12
+* Portfolio: https://tibebudere.vercel.app
 
 -->
