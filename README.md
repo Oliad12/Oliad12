@@ -4,12 +4,20 @@
 🤖 AI Enthusiast
 ⚙️ DevOps & Cloud Learner
 
+
 💻 Passionate about Full-Stack Development, AI, and Cloud Computing
 
 ⚙️ Experienced with DevOps tools and modern web technologies
 
 🚀 I enjoy building scalable systems and AI-powered applications
+
 ---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,postgres,mongodb,docker,aws,git,github" />
+</p>
 
 ## 🚀 Tech Stack
 
@@ -105,6 +113,7 @@ Full-stack streaming system with authentication, watchlists, and reviews.
 ✔ Work on global software projects
 
 ✔ Contribute to open source
+
 ---
 
 ⭐ *Always learning new technologies and building real-world applications.*
