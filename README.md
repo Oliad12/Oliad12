@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Cloud+Learner;DevOps+Enthusiast&center=true&width=500&height=50">
 </p>
 
-
 💻 Passionate about Full-Stack Development, AI, and Cloud Computing
 
 ⚙️ Experienced with DevOps tools and modern web technologies
@@ -57,7 +56,7 @@ AWS • Vercel • Cloud Deployments
 
 ---
 ## Profile View
-![Profile Views](https://komarev.com/ghpvc/?username=oliad12&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Oliad12&color=blue)
 
 ---
 ## 🏆 GitHub Trophies
@@ -91,12 +90,16 @@ Full-stack streaming system with authentication, watchlists, and reviews.
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/Oliad12
-* LinkedIn: https://www.linkedin.com/in/tibebu12
-* Portfolio: https://tibebudere.vercel.app
+💻 GitHub
+https://github.com/oliad12
 
+🔗 LinkedIn
+https://www.linkedin.com/in/tibebu12
+
+🌍 Portfolio
+https://tibebudere.vercel.app
 ---
-⭐ Goals
+🎯 Goals
 
 ✔ Build scalable cloud applications
 
