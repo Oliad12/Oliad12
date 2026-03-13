@@ -16,14 +16,14 @@
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-38BDF8?style=for-the-badge\&logo=typescript)
-![Redux](https://img.shields.io/badge/Redux-38BDF8?style=for-the-badge\&logo=redux)
+![TypeScript](https://img.shields.io/badge/TypeScript-green?style=for-the-badge\&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-38BDF4?style=for-the-badge\&logo=redux)
 ### Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![Springboot](https://img.shields.io/badge/Springboot-black?style=for-the-badge\&logo=Springboot)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge\&logo=prisma)
+![Springboot](https://img.shields.io/badge/Springboot-blue?style=for-the-badge\&logo=Springboot)
+![Prisma](https://img.shields.io/badge/Prisma-red?style=for-the-badge\&logo=prisma)
 ### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
