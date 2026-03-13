@@ -90,14 +90,13 @@ Full-stack streaming system with authentication, watchlists, and reviews.
 
 ## 🌐 Connect With Me
 
-💻 GitHub
+💻 GitHub:
 https://github.com/oliad12
-
-🔗 LinkedIn
+🔗 LinkedIn:
 https://www.linkedin.com/in/tibebu12
-
-🌍 Portfolio
+🌍 Portfolio:
 https://tibebudere.vercel.app
+
 ---
 🎯 Goals
 
