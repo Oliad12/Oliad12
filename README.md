@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tibebu</h1>
+<h1 align="text-blue text-5xl">Hi 👋, I'm Tibebu</h1>
 
-<p align="center">
-Full Stack Developer | AI Enthusiast | DevOps Learner
-</p>
-
-<p align="center">
+<p align="text-xl text-purple-500">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Cloud+Learner;DevOps+Enthusiast&center=true&width=500&height=50">
 </p>
 
