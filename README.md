@@ -1,8 +1,12 @@
-# Hi 👋, I'm Tibebu
+<h1 align="center">Hi 👋, I'm Tibebu</h1>
 
-💻 Full-Stack Developer
-🤖 AI Enthusiast
-⚙️ DevOps & Cloud Learner
+<p align="center">
+Full Stack Developer | AI Enthusiast | DevOps Learner
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Cloud+Learner;DevOps+Enthusiast&center=true&width=500&height=50">
+</p>
 
 
 💻 Passionate about Full-Stack Development, AI, and Cloud Computing
@@ -12,12 +16,6 @@
 🚀 I enjoy building scalable systems and AI-powered applications
 
 ---
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,postgres,mongodb,docker,aws,git,github" />
-</p>
 
 ## 🚀 Tech Stack
 
@@ -51,32 +49,30 @@ AWS • Vercel • Cloud Deployments
 
 ---
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oliad12\&show_icons=true\&theme=tokyonight)
 
 ---
 ## ⚡ GitHub Streak
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliad12\&layout=compact\&theme=tokyonight)
 
 ---
 ## 🔥 GitHub Activity Graph
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oliad12\&theme=tokyo-night)
 
 ---
-## 🏆 GitHub Trophies
+## Profile View
+![Profile Views](https://komarev.com/ghpvc/?username=oliad12&color=blue)
 
+---
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Oliad12&theme=tokyonight&no-frame=true&row=1)
 
 ---
 ## 🐍 Contribution Snake
-
 ![snake gif](https://github.com/Oliad12/Oliad12/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ## 📈 GitHub Metrics
-
 ![Metrics](https://metrics.lecoq.io/Oliad12?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1)
 
 ---
