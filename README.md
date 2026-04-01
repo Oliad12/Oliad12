@@ -1,6 +1,6 @@
-<h1 align="text-blue text-5xl">Hi 👋, I'm Tibebu</h1>
+<h1 align="text-blue text-6xl">Hi 👋, I'm Tibebu</h1>
 
-<p align="text-xl text-purple-500">
+<p align="text-3xl text-purple-500">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Cloud+Learner;DevOps+Enthusiast&center=true&width=500&height=50">
 </p>
 
@@ -40,7 +40,8 @@
 
 ### Cloud
 
-AWS • Vercel • Cloud Deployments
+![AWS](https://img.shields.io/badge/AWS-blue?style=for-the-badge\&logo=aws)
+![Vercel](https://img.shields.io/badge/VERCEL-orange?style=for-the-badge)
 
 ---
 ## 📊 GitHub Stats
