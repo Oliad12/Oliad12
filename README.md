@@ -1,13 +1,17 @@
-<h1 align="text-blue text-6xl">Hi 👋, I'm Tibebu</h1>
+<h1 align="center" class="text-blue text-6xl">Hi 👋, I'm Tibebu</h1>
 
-<p align="text-3xl text-purple-500">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Cloud+Learner;DevOps+Enthusiast&center=true&width=500&height=50">
+<p align="center" class="text-3xl text-purple-500">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Cloud+Learner;DevOps+Enthusiast&center=true&width=500&height=50">
 </p>
 
-💻 Passionate about Full-Stack Development, AI, and Cloud Computing
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Oliad12&color=blue)
+  ![Portfolio Visitors](https://visitor-badge.glitch.me/badge?page_id=tibebudere.vercel.app)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oliad12&theme=tokyonight)
+</p>
 
-⚙️ Experienced with DevOps tools and modern web technologies
-
+💻 Passionate about Full-Stack Development, AI, and Cloud Computing  
+⚙️ Experienced with DevOps tools and modern web technologies  
 🚀 I enjoy building scalable systems and AI-powered applications
 
 ---
@@ -65,42 +69,29 @@
 ## 🚀 Featured Projects
 
 ### AI Resume Builder
-
 AI-powered SaaS platform that generates professional resumes automatically.
 
 ### AI Expense Tracker
-
 Smart financial tracker that categorizes expenses using AI.
 
 ### Movie Streaming Platform
-
 Full-stack streaming system with authentication, watchlists, and reviews.
 
 ---
 
 ## 🌐 Connect With Me
 
-💻 GitHub:
-https://github.com/oliad12
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/tibebu12
-
-🌍 Portfolio:
-https://tibebudere.vercel.app
+💻 GitHub: [Oliad12](https://github.com/Oliad12)  
+🔗 LinkedIn: [Tibebu Dereje](https://www.linkedin.com/in/tibebu12)  
+🌍 Portfolio: [tibebudere.vercel.app](https://tibebudere.vercel.app)
 
 ---
+
 🎯 Goals
 
-✔ Build scalable cloud applications
-
-✔ Master DevOps and Infrastructure
-
-✔ Work on global software projects
-
-✔ Contribute to open source
-
----
+✔ Build scalable cloud applications  
+✔ Master DevOps and Infrastructure  
+✔ Work on global software projects  
+✔ Contribute to open source  
 
 ⭐ *Always learning new technologies and building real-world applications.*
--->
