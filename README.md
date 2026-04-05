@@ -50,7 +50,7 @@
 
 ---
 ## ⚡ GitHub Streak
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliad12&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliad12&layout=compact&theme=tokyo-night)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oliad12&theme=tokyonight)
 
 ---
