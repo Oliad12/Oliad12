@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oliad12&color=blue" alt="Profile Views" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tibebudere.vercel.app" alt="Portfolio Visitors" />
+  <img src="https://api.countapi.xyz/hit/tibebudere.vercel.app/visits" alt="Portfolio Visitors" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oliad12&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
