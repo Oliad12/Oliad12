@@ -46,11 +46,12 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oliad12\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oliad12&show_icons=true&theme=tokyonight)
 
 ---
 ## ⚡ GitHub Streak
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliad12\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliad12&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oliad12&theme=tokyonight)
 
 ---
 ## 🔥 GitHub Activity Graph
@@ -59,11 +60,10 @@
 ---
 ## Profile View
 ![Profile Views](https://komarev.com/ghpvc/?username=Oliad12&color=blue)
-![Portfolio Visitors](https://visitor-badge.glitch.me/badge?page_id=tibebudere.vercel.app&color=blue)
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Oliad12&theme=tokyonight&no-frame=true&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Oliad12&theme=tokyonight&no-frame=true&row=1)
 
 ---
 ## 📈 GitHub Metrics
