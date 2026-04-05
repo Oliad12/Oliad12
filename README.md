@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Oliad12&color=blue)
-  ![Portfolio Visitors](https://visitor-badge.glitch.me/badge?page_id=tibebudere.vercel.app)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oliad12&theme=tokyonight)
+  <img src="https://komarev.com/ghpvc/?username=Oliad12&color=blue" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tibebudere.vercel.app" alt="Portfolio Visitors" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oliad12&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 💻 Passionate about Full-Stack Development, AI, and Cloud Computing  
