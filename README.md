@@ -45,15 +45,15 @@
 
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oliad12\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oliad12&show_icons=true&theme=tokyonight)
 
 ---
 ## ⚡ GitHub Streak
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliad12\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliad12&layout=compact&theme=tokyonight)
 
 ---
 ## 🔥 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oliad12\&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oliad12&theme=tokyo-night)
 
 ---
 ## Profile View
