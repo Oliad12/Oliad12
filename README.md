@@ -29,22 +29,33 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack 
 
-### **Languages**
-JavaScript (ES6+), TypeScript
+### Frontend 
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js) 
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss) 
+![TypeScript](https://img.shields.io/badge/TypeScript-green?style=for-the-badge\&logo=typescript) 
+![Redux](https://img.shields.io/badge/Redux-38BDF4?style=for-the-badge\&logo=redux)
 
-### **Frontend**
-Next.js, React, Redux Toolkit, Tailwind CSS, ShadCN UI
+### Backend 
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js) 
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express) 
+![Springboot](https://img.shields.io/badge/Springboot-blue?style=for-the-badge\&logo=Springboot) 
+![Prisma](https://img.shields.io/badge/Prisma-red?style=for-the-badge\&logo=prisma) 
 
-### **Backend**
-Node.js, Express.js, REST APIs, Prisma ORM
+### Database 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql) 
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb) 
 
-### **Database**
-PostgreSQL, MySQL, MongoDB
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker) 
+![CI/CD](https://img.shields.io/badge/CI/CD-orange?style=for-the-badge) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=github-actions) 
 
-### **DevOps & Cloud**
-Docker, GitHub Actions, CI/CD, AWS, Vercel
+### Cloud 
+![AWS](https://img.shields.io/badge/AWS-blue?style=for-the-badge\&logo=aws) 
+![Vercel](https://img.shields.io/badge/VERCEL-orange?style=for-the-badge)
 
 ---
 
@@ -58,6 +69,14 @@ Docker, GitHub Actions, CI/CD, AWS, Vercel
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliad12&layout=compact&hide_border=true"/>
 </p>
+
+---
+
+--- 
+
+## Profile View 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Oliad12&color=blue)
 
 ---
 
@@ -110,6 +129,6 @@ Docker, GitHub Actions, CI/CD, AWS, Vercel
 
 ---
 
-## ⚡ Philosophy
+## ⚡ 
 
 > “Focus on scalability, write maintainable code, and build systems that last.”
