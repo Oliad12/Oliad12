@@ -1,11 +1,12 @@
-<h1 align="left">Hi 👋, I'm Tibebu Dereje</h1>
-<p align="left">
+<h1 align="center">Hi 👋, I'm Tibebu Dereje</h1>
+
+<p align="center">
   <b>Full Stack Engineer • AI Systems • Scalable SaaS Architect</b><br/>
-  Building production-grade applications with clean architecture and real-world impact.
+  Building production-grade applications with clean architecture, performance, and real-world impact.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;AI+Systems+Builder;Cloud+Deployment;DevOps+Focused;SaaS+application+system &center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;AI+Systems+Builder;Cloud+Deployment;DevOps+Focused;Scalable+SaaS+Systems&center=true&width=500&height=45">
 </p>
 
 ---
