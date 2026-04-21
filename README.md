@@ -25,7 +25,7 @@
 ## 🏗️ Current Work
 
 - 🚀 SaaS Admin Dashboard (analytics, subscriptions, role-based access)
-- 🎬 Movie Streaming Platform (TMDB sync, watchlist, payments)
+- 🎬 Movie Streaming Platform (watchlist, history, payments)
 - 🤖 AI Applications (resume builder, smart automation tools)
 
 ---
