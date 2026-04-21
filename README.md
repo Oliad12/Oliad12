@@ -106,9 +106,12 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oliad12&theme=flat&no-frame=true&row=1"/>
-</p>
+- Architected scalable SaaS platforms with clean, maintainable backend structures  
+- Engineered systems to handle increasing load and concurrent users efficiently  
+- Delivered full-stack applications integrating authentication, payments, and analytics  
+- Built AI-driven tools to automate workflows and improve user productivity  
+- Improved system performance through query optimization and caching techniques  
+- Applied DevOps practices including CI/CD automation and cloud deployment  >
 
 ---
 
