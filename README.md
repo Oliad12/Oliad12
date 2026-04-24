@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tibebu Dereje</h1>
+<h1 align="center">Hello👋, I'm Tibebu Dereje</h1>
 
 <p align="center">
   <b>Full Stack Engineer • AI Systems • Scalable SaaS Architect</b><br/>
@@ -73,11 +73,13 @@
 
 ---
 
---- 
+---
 
-## Profile View 
+## 👁️ Profile Views  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Oliad12&color=blue)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Oliad12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
